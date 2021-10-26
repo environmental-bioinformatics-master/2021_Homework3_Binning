@@ -1,5 +1,3 @@
-# 2021 Homework3 Binning
-
 # HW3 binning
 
 ## Co-assembly and binning
