@@ -21,7 +21,7 @@ Install [GTDB-tk](https://ecogenomics.github.io/GTDBTk/index.html) **version 1.3
 - Use [prokka](https://github.com/tseemann/prokka) to functionally annotate the bins. Upload the script (`prokka.qsub`). Upload all the tsv tables to the repo.
 > How many bins contain at least one rRNA genes? How many contain all rRNA genes (5S rRNA, 16S rRNA and 23S rRNA)? Recover all 16S rRNA gene sequences, add them to a file called `qual_bins_16S.fasta`. Make a directory called `sequences` and upload the file. Report the commands you used to search for the presence of the rRNA genes and recover the sequences.
 
-> Are there bins containing the dissimilatory-type of sulfite reductase? If yes, report their names and the Class they belong? Do they have a species assignment.
+> Are there bins containing the dissimilatory-type of sulfite reductase? If yes, report their names and the Class they belong. Do they have a species assignment?
 
 
 
